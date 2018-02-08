@@ -37,7 +37,7 @@ Servers that throw an error get marked as dead and will only be retried every se
 
 You need Ruby 2.1.7. Just run:
 
-  sudo gem install thrift_client
+  sudo gem install rt_thrift_client
 
 == Additional Documentation
 
